@@ -20,5 +20,5 @@ def game_hash
   {:rebounds => ""}, 
   {:assists => ""}, 
   {:steals => ""}, 
-  {:blocks => ""}]}
+  {:blocks => ""}]}}
 end 
