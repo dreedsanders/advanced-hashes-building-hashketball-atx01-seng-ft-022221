@@ -1,5 +1,4 @@
 def game_hash
-  game_hash = {}
   game_hash = {:home => 
   {:team_name => "", 
   :colors =>[], 
@@ -20,5 +19,5 @@ def game_hash
   {:rebounds => ""}, 
   {:assists => ""}, 
   {:steals => ""}, 
-  {:blocks => ""}] }
+  {:blocks => ""}]}}
 end 
